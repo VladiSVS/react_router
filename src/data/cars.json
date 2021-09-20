@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "car_name": "Chevrolet",
+        "car_model": "Monte Carlo",
+        "car_year": 2005
+    },
+    {
+        "id": 2,
+        "car_name": "Dodge",
+        "car_model": "Journey",
+        "car_year": 2009
+    },
+    {
+        "id": 3,
+        "car_name": "Volkswagen",
+        "car_model": "Rabbit",
+        "car_year": 2009
+    },
+    {
+        "id": 4,
+        "car_name": "Mercury",
+        "car_model": "Grand Marquis",
+        "car_year": 1995
+    },
+    {
+        "id": 5,
+        "car_name": "Acura",
+        "car_model": "NSX",
+        "car_year": 1997
+    },
+    {
+        "id": 6,
+        "car_name": "Jeep",
+        "car_model": "Liberty",
+        "car_year": 2011
+    },
+    {
+        "id": 7,
+        "car_name": "Oldsmobile",
+        "car_model": "Aurora",
+        "car_year": 1999
+    },
+    {
+        "id": 8,
+        "car_name": "Mazda",
+        "car_model": "MX-3",
+        "car_year": 1992
+    },
+    {
+        "id": 9,
+        "car_name": "Kia",
+        "car_model": "Sportage",
+        "car_year": 2007
+    },
+    {
+        "id": 10,
+        "car_name": "Chevrolet",
+        "car_model": "1500",
+        "car_year": 1996
+    }
+]
